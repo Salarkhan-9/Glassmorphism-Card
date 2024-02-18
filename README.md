@@ -1,2 +1,2 @@
 # Glassmorphism-Card
-Used HTML and CSS - Use Vanilla tilts effect ( JS )   
+Used Vanilla tilts effect ( JS )  , HTML and CSS 
